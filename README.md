@@ -1,3 +1,2 @@
 # Coursera_Capstone
-
-This repository is a demonstration of a capstone project of coursera: The Battle of Neighborhoods.
+This repository explores which neighborhoods of Toronto have the most as well as the best poutine.
